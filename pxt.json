@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "sonarbit.ts",
-        "_locales/zh/sonarbit-strings.json"
+        "_locales/zh/sonarbit-strings.json",
+        "_locales/fr/sonarbit-strings.json"
     ],
     "testFiles": [
         "tests.ts"
